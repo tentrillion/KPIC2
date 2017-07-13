@@ -21,6 +21,7 @@ Imports: Rcpp (>= 0.11.3),
 		 caret, 
 		 ellipse, 
 		 ggplot2,  
-		 gtools
+		 gtools,
+		 dbscan
 Description: LC-MS data preprocessing for high-throughput, untargeted analyte profiling.
 License: GPL (>= 2)
