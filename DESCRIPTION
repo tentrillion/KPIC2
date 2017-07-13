@@ -20,8 +20,7 @@ Imports: Rcpp (>= 0.11.3),
 		 pracma, 
 		 caret, 
 		 ellipse, 
-		 ggplot2, 
-		 kopls, 
+		 ggplot2,  
 		 gtools
 Description: LC-MS data preprocessing for high-throughput, untargeted analyte profiling.
 License: GPL (>= 2)
