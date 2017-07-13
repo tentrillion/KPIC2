@@ -20,7 +20,6 @@ Imports: Rcpp (>= 0.11.3),
 		 pracma, 
 		 caret, 
 		 ellipse, 
-		 splancs, 
 		 ggplot2, 
 		 kopls, 
 		 gtools
